@@ -1,0 +1,59 @@
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.navbar li {
+    display: flex;
+    padding: 10px 10px;
+    height: 30px;
+    align-items: center;
+    
+}
+
+.about-us {
+    color: rgb(0, 179, 155)
+}
+
+.career {
+    color: rgb(149, 172, 169)
+}
+
+.departments {
+    color: rgb(149, 172, 169)
+}
+
+.body {
+    font-family: Roboto, Arial, sans-serif;
+
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+
+
+.departments:hover {
+    color:rgb(0, 179, 155)
+}
+
+.career:hover {
+    color:rgb(0, 179, 155)
+}
+
+
+
+
+
